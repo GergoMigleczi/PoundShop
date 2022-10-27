@@ -1,0 +1,13 @@
+/Users/migleczigergo/Projects/PoundShop/bin/Debug/netcoreapp3.1/PoundShop.deps.json
+/Users/migleczigergo/Projects/PoundShop/bin/Debug/netcoreapp3.1/PoundShop.runtimeconfig.json
+/Users/migleczigergo/Projects/PoundShop/bin/Debug/netcoreapp3.1/PoundShop.runtimeconfig.dev.json
+/Users/migleczigergo/Projects/PoundShop/bin/Debug/netcoreapp3.1/PoundShop.dll
+/Users/migleczigergo/Projects/PoundShop/bin/Debug/netcoreapp3.1/PoundShop.pdb
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.csproj.AssemblyReference.cache
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.AssemblyInfoInputs.cache
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.AssemblyInfo.cs
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.csproj.CoreCompileInputs.cache
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.dll
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.pdb
+/Users/migleczigergo/Projects/PoundShop/obj/Debug/netcoreapp3.1/PoundShop.genruntimeconfig.cache
